@@ -1,7 +1,3 @@
-# php-api-client-server-architecture
-Refresh Belajar PHP membangun CRUD lewat API, tidak query langsung.
-
-
 # PHP API Client Architecture (Native)
 
 A lightweight API-driven application built using **Native PHP**.
