@@ -1,7 +1,7 @@
 # PHP API Client Architecture (Native)
 
 A lightweight API-driven application built using **Native PHP**.
-This project demonstrates a clean separation between:
+This project aims to teach PHP without a framework, demonstrating a clear separation between:
 
 * **API Server** – Handles database operations and returns JSON response
 * **Client App** – Consumes API via cURL and renders data in HTML views
